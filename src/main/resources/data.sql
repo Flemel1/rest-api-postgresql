@@ -1,0 +1,17 @@
+INSERT INTO public.tb_master_user_role (role_name) VALUES('tester');
+INSERT INTO public.tb_master_user_role (role_name) VALUES('developer');
+INSERT INTO public.tb_master_user_role (role_name) VALUES('ceo');
+INSERT INTO public.tb_master_user_role (role_name) VALUES('cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('john', 'male', 'testing', 'test1@example.com', 'developer');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('angela', 'female',  'testing','test2@example.com', 'tester');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test3@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test4@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test5@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test6@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test7@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test8@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test9@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test10@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test11@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test12@example.com', 'cto');
+INSERT INTO public.tb_master_user (nama, jenis_kelamin, alamat, email, role_name) VALUES('gabriel', 'male', 'testing', 'test13@example.com', 'cto');
